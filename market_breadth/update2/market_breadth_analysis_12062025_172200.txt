@@ -1,0 +1,204 @@
+Analysis of All Market Breadth Indicators:
+================================================================================
+
+McClellan Volume Oscillator:
+  Accuracy: 88.0%
+  Total Signals: 83
+  - Correct Signals: 73
+  - False Signals: 10
+  Signal Timing:
+  - Leading Signals: 2 (2.4%)
+  - Lagging Signals: 71 (85.5%)
+  - Average Lead Time: 1.5 days
+  - Average Lag Time: 0.6 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+McClellan Oscillator:
+  Accuracy: 86.7%
+  Total Signals: 83
+  - Correct Signals: 72
+  - False Signals: 11
+  Signal Timing:
+  - Leading Signals: 2 (2.4%)
+  - Lagging Signals: 70 (84.3%)
+  - Average Lead Time: 1.5 days
+  - Average Lag Time: 0.5 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+Stochastic Oscillator Trend:
+  Accuracy: 84.3%
+  Total Signals: 197
+  - Correct Signals: 166
+  - False Signals: 31
+  Signal Timing:
+  - Leading Signals: 9 (4.6%)
+  - Lagging Signals: 157 (79.7%)
+  - Average Lead Time: 1.3 days
+  - Average Lag Time: 0.3 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+Advance/Decline Volume Ratio:
+  Accuracy: 78.7%
+  Total Signals: 221
+  - Correct Signals: 174
+  - False Signals: 47
+  Signal Timing:
+  - Leading Signals: 15 (6.8%)
+  - Lagging Signals: 159 (71.9%)
+  - Average Lead Time: 1.4 days
+  - Average Lag Time: 0.2 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+Price Rate of Change (ROC):
+  Accuracy: 62.2%
+  Total Signals: 74
+  - Correct Signals: 46
+  - False Signals: 28
+  Signal Timing:
+  - Leading Signals: 4 (5.4%)
+  - Lagging Signals: 42 (56.8%)
+  - Average Lead Time: 1.8 days
+  - Average Lag Time: 0.6 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+RSI Positive-Negative:
+  Accuracy: 60.0%
+  Total Signals: 60
+  - Correct Signals: 36
+  - False Signals: 24
+  Signal Timing:
+  - Leading Signals: 3 (5.0%)
+  - Lagging Signals: 33 (55.0%)
+  - Average Lead Time: 1.0 days
+  - Average Lag Time: 0.6 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+Volume Price Trend (VPT):
+  Accuracy: 59.1%
+  Total Signals: 44
+  - Correct Signals: 26
+  - False Signals: 18
+  Signal Timing:
+  - Leading Signals: 2 (4.5%)
+  - Lagging Signals: 24 (54.5%)
+  - Average Lead Time: 1.0 days
+  - Average Lag Time: 0.6 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+EMA Golden Cross:
+  Accuracy: 58.6%
+  Total Signals: 29
+  - Correct Signals: 17
+  - False Signals: 12
+  Signal Timing:
+  - Leading Signals: 0 (0.0%)
+  - Lagging Signals: 17 (58.6%)
+  - Average Lag Time: 0.5 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+On-Balance Volume (OBV):
+  Accuracy: 57.9%
+  Total Signals: 19
+  - Correct Signals: 11
+  - False Signals: 8
+  Signal Timing:
+  - Leading Signals: 0 (0.0%)
+  - Lagging Signals: 11 (57.9%)
+  - Average Lag Time: 0.6 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+New High-Low (Month):
+  Accuracy: 53.2%
+  Total Signals: 186
+  - Correct Signals: 99
+  - False Signals: 87
+  Signal Timing:
+  - Leading Signals: 4 (2.2%)
+  - Lagging Signals: 95 (51.1%)
+  - Average Lead Time: 1.2 days
+  - Average Lag Time: 0.6 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+MACD Signal Positive-Negative:
+  Accuracy: 50.0%
+  Total Signals: 42
+  - Correct Signals: 21
+  - False Signals: 21
+  Signal Timing:
+  - Leading Signals: 1 (2.4%)
+  - Lagging Signals: 20 (47.6%)
+  - Average Lead Time: 2.0 days
+  - Average Lag Time: 0.6 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+New High-Low (Quarter):
+  Accuracy: 45.9%
+  Total Signals: 181
+  - Correct Signals: 83
+  - False Signals: 98
+  Signal Timing:
+  - Leading Signals: 3 (1.7%)
+  - Lagging Signals: 80 (44.2%)
+  - Average Lead Time: 1.0 days
+  - Average Lag Time: 0.5 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+MACD Positive-Negative:
+  Accuracy: 45.5%
+  Total Signals: 22
+  - Correct Signals: 10
+  - False Signals: 12
+  Signal Timing:
+  - Leading Signals: 2 (9.1%)
+  - Lagging Signals: 8 (36.4%)
+  - Average Lead Time: 1.5 days
+  - Average Lag Time: 1.0 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+ATR Trend:
+  Accuracy: 42.4%
+  Total Signals: 205
+  - Correct Signals: 87
+  - False Signals: 118
+  Signal Timing:
+  - Leading Signals: 19 (9.3%)
+  - Lagging Signals: 68 (33.2%)
+  - Average Lead Time: 1.2 days
+  - Average Lag Time: 0.6 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+New High-Low (Year):
+  Accuracy: 35.4%
+  Total Signals: 99
+  - Correct Signals: 35
+  - False Signals: 64
+  Signal Timing:
+  - Leading Signals: 0 (0.0%)
+  - Lagging Signals: 35 (35.4%)
+  - Average Lag Time: 0.4 days
+  Primary Type: Lagging Indicator
+----------------------------------------
+
+Summary Statistics:
+================================================================================
+Total Indicators Analyzed: 15
+High Accuracy Indicators (≥60%): 6
+Leading Indicators: 0
+Lagging Indicators: 15
+
+Most Accurate Indicator: McClellan Volume Oscillator (88.0%)
+Best Leading Indicator: ATR Trend (9.3% lead ratio)
